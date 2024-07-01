@@ -5,6 +5,7 @@ import AllCategories from "./Filter/AllCategories";
 
 import Filter from "./Filter/Filter";
 
+// app component
 function App() {
   return (
     <div className="App">
